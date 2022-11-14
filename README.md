@@ -1,1 +1,3 @@
 # Sentiment-Analysis
+This is a Natural Language Processing(NLP) based AI project. Sentiment analyzer which is used to analyze raw text using a dictionary of positive, negative and neutral words and also plot it in graph. Detecting sentiment in social data, to understand customers and measure popularity of brands is the main aim of this project. 
+Before executing this project, visit www.nltk.org and download nltk package and its dataset. (Or type 'pip install nltk' followed by 'python -m nltk.downloader all' in terminal of your IDE). Also type 'pip install matplotlib' in terminal to install Matplotlib library. Install turtle packages as well.
